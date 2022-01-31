@@ -17,10 +17,12 @@ launch your terminal, go to your project folder, and do this :
 ...
 
 <h1 color="blue"> VERSION </h1>
-<ul>
-  <li>current version 0.1.0</li>
-</ul>
 
+current version 0.1.0
+
+
+<h1>GITHUB PAGES </h1>
+https://theobourdel.github.io/PROJET-GIT/
 <h1> AUTHORS </h1>
 <ul>
   <li>Bourdel Théo</li>
